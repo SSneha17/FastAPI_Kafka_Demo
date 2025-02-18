@@ -70,9 +70,13 @@ Install the frontend dependencies:
 
 ## In Action (Screenshots)
 ![image](https://github.com/user-attachments/assets/68d02ffb-d4e3-4418-83bc-a80bcd661205)
+
 Purchasing new stock ( 10 shares @15.00)
+
 ![image](https://github.com/user-attachments/assets/ac37a06b-598b-42d1-b931-5a4e1827bc27)
+
 Adding 1 more share of existing stock, AAPL at 200
+
 ![image](https://github.com/user-attachments/assets/c85f7672-d39f-4714-90ea-19b9bf6b05c6)
 
 
